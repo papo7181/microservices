@@ -1,2 +1,2 @@
 # microservices
-master repository for microservices projects
+master repository for all microservices projects
